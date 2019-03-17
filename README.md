@@ -2,19 +2,19 @@
 
 ![](Stars.gif)
 
-> Procedural stars, planets, and systems generation for Unity.
+> Procedural stars, planets, and systems generation for Unity. It uses real physics values for creating stars, such as SolarMass, SolarRadius, Luminosity and Temperature.
 
 ## :dizzy: Orbiting
 
 ![](Orbiting.gif)
 
-> Planets can orbit stars while moons orbit planets.
+> Planets can orbit stars while moons orbit planets. It uses physics for calculating orbit.
 
-## :earth_americas: Runtime Level Editor
+## :earth_americas: Planets
 
 ![](Planets.png)
 
-> Impelented procedural planet generation without using quadtree.
+> Impelented procedural planet generation without using quadtree. It uses perlin noise for generating planet's terrain.
 
 ## :clipboard: Meta
 
