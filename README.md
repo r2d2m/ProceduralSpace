@@ -1,27 +1,24 @@
-# The Mad Miners
+# Procedural Space
 
-![](GitHeader.png)
+![](Stars.gif)
 
-> The Mad Miners is a platformer game developed on Unity, and the game was inspired by the Super Meat Boy. The game contains everything that you need to create basic platformer game. It is designed so that it is easy to use and does not require any line of code. It also has a powerful runtime level editor.
+> Procedural stars, planets, and systems generation for Unity.
 
+## :dizzy: Orbiting
 
-## :video_game: Gameplay
+![](Orbiting.gif)
 
-[![The Mad Miners - Gameplay](Gameplay.png)](http://www.youtube.com/watch?v=hOIJQ3127k0 "The Mad Miners - Gameplay")
+> Planets can orbit stars while moons orbit planets.
 
-Player can:
+## :earth_americas: Runtime Level Editor
 
-```sh
-DoubleJump, WallJump, WallStick, WallSlide, CornerGrab, Dash
-```
+![](Planets.png)
 
-## :hammer: Runtime Level Editor
-![](Editor.png)
-> The game has a powerful runtime level editor with layers system. It will allow players to create levels in game. Allowing your gamer community to create levels will not only increase their satisfaction, but it will also save your time. You can also use this level editor to create levels yourself and save them.
+> Impelented procedural planet generation without using quadtree.
 
 ## :clipboard: Meta
 
-Spartak Gevorgyan – artak10t@gmail.com
+Spartak Gevorgyan â€“ artak10t@gmail.com
 
 Distributed under the GNU General Public License v3.0 license. See ``GNU General Public License v3.0`` for more information.
 
